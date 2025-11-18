@@ -2,20 +2,19 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# KDE Serbian Translation Team <kde-yu@kde.org.yu>, 1999.
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Мирослав Николић <miroslavnikolic@rocketmail.com>, 2014-2015.
-# Branko Kovačević <ja_sam_branko@yahoo.com>, 2019.
-# Слободан Симић(Slobodan Simić) <slsimic@gmail.com>, 2021.
+# SPDX-FileCopyrightText: 1999 KDE Serbian Translation Team <kde-yu@kde.org.yu>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2014-2015 Мирослав Николић <miroslavnikolic@rocketmail.com>
+# SPDX-FileCopyrightText: 2019 Branko Kovačević <ja_sam_branko@yahoo.com>
+# SPDX-FileCopyrightText: 2021 Слободан Симић(Slobodan Simić) <slsimic@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:03+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-02-03 11:42+0000\n"
 "Last-Translator: Слободан Симић(Slobodan Simić) <slsimic@gmail.com>\n"
 "Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"

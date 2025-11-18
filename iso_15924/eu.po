@@ -1,16 +1,15 @@
 # Translation of ISO 15924 to Basque
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2020.
+# SPDX-FileCopyrightText: 2020 Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2020-02-17 14:50+0000\n"
 "Last-Translator: Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"

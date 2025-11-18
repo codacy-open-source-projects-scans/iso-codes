@@ -2,17 +2,16 @@
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Serge Karpesh <skarpiesz@gmail.com>, 2020.
-# Viktar Vauchkevich <victorenator@gmail.com>, 2020.
+# SPDX-FileCopyrightText: 2020 Serge Karpesh <skarpiesz@gmail.com>
+# SPDX-FileCopyrightText: 2020 Viktar Vauchkevich <victorenator@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:49+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2020-09-24 20:41+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"

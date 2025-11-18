@@ -1,18 +1,17 @@
 # Translation of ISO 15924 to Hungarian
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
-# Balázs Úr <urbalazs@gmail.com>, 2014.
-# RViktor <rviktor@ivankapal.com>, 2025.
+# SPDX-FileCopyrightText: 2007 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2014 Balázs Úr <urbalazs@gmail.com>
+# SPDX-FileCopyrightText: 2025 RViktor <rviktor@ivankapal.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-04-07 21:57+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"

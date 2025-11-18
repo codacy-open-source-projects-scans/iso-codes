@@ -1,19 +1,18 @@
 # Translation of ISO 15924 to Chinese (Hong Kong)
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
-# Walter Cheuk <wwycheuk@gmail.com>, 2019.
-# Jack Liu <ywp033319@gmail.com>, 2022.
-# Abel Cheung <abelcheung@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2007 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2019 Walter Cheuk <wwycheuk@gmail.com>
+# SPDX-FileCopyrightText: 2022 Jack Liu <ywp033319@gmail.com>
+# SPDX-FileCopyrightText: 2023 Abel Cheung <abelcheung@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-10 05:19+0000\n"
 "Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"

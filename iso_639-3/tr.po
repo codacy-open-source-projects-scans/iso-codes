@@ -2,24 +2,23 @@
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Fatih Demir <kabalak@gmx.net>, 2000.
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>, 2001.
-# Volkan Gezer <volkangezer@gmail.com>, 2013.
-# Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
-# Serdar Sağlam <teknomobil@msn.com>, 2019.
-# Oguz Ersen <oguzersen@protonmail.com>, 2019.
-# EminUZUN <eminuzunn@gmail.com>, 2020.
-# Oğuz Ersen <oguzersen@protonmail.com>, 2021.
+# SPDX-FileCopyrightText: 2000 Fatih Demir <kabalak@gmx.net>
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>
+# SPDX-FileCopyrightText: 2013 Volkan Gezer <volkangezer@gmail.com>
+# SPDX-FileCopyrightText: 2015 Dmitry Sivachenko <trtrmitya@gmail.com>
+# SPDX-FileCopyrightText: 2019 Serdar Sağlam <teknomobil@msn.com>
+# SPDX-FileCopyrightText: 2019 Oguz Ersen <oguzersen@protonmail.com>
+# SPDX-FileCopyrightText: 2020 EminUZUN <eminuzunn@gmail.com>
+# SPDX-FileCopyrightText: 2021 Oğuz Ersen <oguzersen@protonmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:49+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-11-14 06:50+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"

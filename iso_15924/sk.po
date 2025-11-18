@@ -1,19 +1,18 @@
 # Translation of ISO 15924 to Slovak
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2008 Ivan Masár <helix84@centrum.sk>
 # .
 # Notes:
 # Translations taken from sk.wikipedia.org on 2008-06-17
-# .
-# Copyright ©
-# Ivan Masár <helix84@centrum.sk>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2008-06-17 23:29+0100\n"
 "Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
 "Language-Team: Slovak\n"

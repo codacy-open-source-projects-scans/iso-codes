@@ -1,19 +1,18 @@
 # Translation of ISO 4217 to Polish
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Bartosz Fenski <fenio@o2.pl>, 2004.
-# Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2022.
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2004 Bartosz Fenski <fenio@o2.pl>
+# SPDX-FileCopyrightText: 2007 Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>
+# SPDX-FileCopyrightText: 2007-2017, 2022 Jakub Bogusz <qboosh@pld-linux.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 19:11+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-06-09 11:41+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"

@@ -2,19 +2,18 @@
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Andras TIMAR <timar@gnome.hu>, 2000-2001.
-# VERÓK István <vi@fsf.hu>, 2004.
-# Doma Gergő <domag02@gmail.com>, 2018, 2019.
-# RViktor <rviktor@ivankapal.com>, 2025.
+# SPDX-FileCopyrightText: 2000-2001 Andras TIMAR <timar@gnome.hu>
+# SPDX-FileCopyrightText: 2004 VERÓK István <vi@fsf.hu>
+# SPDX-FileCopyrightText: 2018, 2019 Doma Gergő <domag02@gmail.com>
+# SPDX-FileCopyrightText: 2025 RViktor <rviktor@ivankapal.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:49+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-04-06 03:57+0000\n"
 "Last-Translator: RViktor <rviktor@ivankapal.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"

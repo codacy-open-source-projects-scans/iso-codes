@@ -2,26 +2,26 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Juan Manuel García Molina <juanmagm@mail.com>, 2001.
-# advocatux <advocatux@airpost.net>, 2018.
-# Rodrigo Lledó <rodhos92@gmail.com>, 2019.
-# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019, 2025.
-# Quentin PAGÈS <quentinantonin@free.fr>, 2020.
-# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
-# Nicolas Horacio <nhk.web@gmail.com>, 2024.
-# Walter Paterno <walter.paterno@gmail.com>, 2025.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Juan Manuel García Molina <juanmagm@mail.com>
+# SPDX-FileCopyrightText: 2018 advocatux <advocatux@airpost.net>
+# SPDX-FileCopyrightText: 2019 Rodrigo Lledó <rodhos92@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2025 Guillermo Segovia <gsegovia2018@my.fit.edu>
+# SPDX-FileCopyrightText: 2020 Quentin PAGÈS <quentinantonin@free.fr>
+# SPDX-FileCopyrightText: 2021 Adolfo Jayme Barrientos <fitojb@ubuntu.com>
+# SPDX-FileCopyrightText: 2024 Nicolas Horacio <nhk.web@gmail.com>
+# SPDX-FileCopyrightText: 2025 Walter Paterno <walter.paterno@gmail.com>
+# SPDX-FileCopyrightText: 2025 Francisco Serrador <fserrador@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:03+0200\n"
-"PO-Revision-Date: 2025-05-12 19:03+0000\n"
-"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-17 23:59+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -29,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -60,10 +60,8 @@ msgid "Escaldes-Engordany"
 msgstr "Las Escaldas-Engordany"
 
 #. Name for AE-AJ
-#, fuzzy
-#| msgid "'Ajmān"
 msgid "‘Ajmān"
-msgstr "Ajman"
+msgstr "‘Ajmān"
 
 #. Name for AE-AZ
 msgid "Abū Z̧aby"
@@ -102,9 +100,8 @@ msgid "Bādghīs"
 msgstr "Badghís"
 
 #. Name for AF-BDS
-#, fuzzy
 msgid "Badakhshān"
-msgstr "Kazajstán"
+msgstr "Badakhshān"
 
 #. Name for AF-BGL
 #, fuzzy

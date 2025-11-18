@@ -2,19 +2,18 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# bronto, 2007.
-# Ivan Masár <helix84@centrum.sk>, 2007-2011, 2013-2014, 2017.
-# Milan Šalka <salka.milan@googlemail.com>, 2023.
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2007 bronto
+# SPDX-FileCopyrightText: 2007-2011, 2013-2014, 2017 Ivan Masár <helix84@centrum.sk>
+# SPDX-FileCopyrightText: 2023 Milan Šalka <salka.milan@googlemail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:23+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-10-13 10:01+0000\n"
 "Last-Translator: Milan Šalka <salka.milan@googlemail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/iso-codes/"

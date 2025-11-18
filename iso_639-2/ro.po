@@ -2,20 +2,19 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Mişu Moldovan <dumol@go.ro>, 2000-2001.
-# Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2009-2010.
-# Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
-# Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>, 2023, 2025.
+# SPDX-FileCopyrightText: 2000-2001 Mişu Moldovan <dumol@go.ro>
+# SPDX-FileCopyrightText: 2004 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2009-2010 Lucian Adrian Grijincu <lucian.grijincu@gmail.com>
+# SPDX-FileCopyrightText: 2018 Andrei POPESCU <andreimpopescu@gmail.com>
+# SPDX-FileCopyrightText: 2023, 2025 Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:23+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Remus-Gabriel Chelu <remusgabriel.chelu@disroot.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"

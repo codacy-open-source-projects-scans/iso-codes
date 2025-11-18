@@ -1,18 +1,17 @@
 # Translation of ISO 15924 to Russian
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Pavel Maryanov <acid@jack.kiev.ua>, 2009-2010.
-# Yuri Kozlov <yuray@komyakino.ru>, 2010-2013, 2017.
-# Aleksey Reprintsev <a.reprintsev@gmail.com>, 2020.
+# SPDX-FileCopyrightText: 2009-2010 Pavel Maryanov <acid@jack.kiev.ua>
+# SPDX-FileCopyrightText: 2010-2013, 2017 Yuri Kozlov <yuray@komyakino.ru>
+# SPDX-FileCopyrightText: 2020 Aleksey Reprintsev <a.reprintsev@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2020-12-25 15:29+0000\n"
 "Last-Translator: Aleksey Reprintsev <a.reprintsev@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"

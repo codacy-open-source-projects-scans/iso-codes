@@ -1,19 +1,18 @@
-# Translation of ISO 639-3 to Occitan (post 1500); Provençal
+# Translation of ISO 639-3 to Occitan (post 1500)
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>
-# Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Quentin PAGÈS <quentinantonin@free.fr>, 2024.
+# SPDX-FileCopyrightText: Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>
+# SPDX-FileCopyrightText: 2002 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2024 Quentin PAGÈS <quentinantonin@free.fr>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:49+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2024-11-29 17:00+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"

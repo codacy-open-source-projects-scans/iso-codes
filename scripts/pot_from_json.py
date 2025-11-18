@@ -1,22 +1,12 @@
 #!/usr/bin/env python3
+
+# SPDX-FileCopyrightText: 2016 Dr. Tobias Quathamer <toddy@debian.org>
 #
-# Read the specified JSON file and generate the POT file.
-#
-# Copyright © 2016 Dr. Tobias Quathamer <toddy@debian.org>
-#
-# This program is free software; you can redistribute it and/or
-# modify it under the terms of the GNU Lesser General Public
-# License as published by the Free Software Foundation; either
-# version 2.1 of the License, or (at your option) any later version.
-#
-# This program is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-# Lesser General Public License for more details.
-#
-# You should have received a copy of the GNU Lesser General Public
-# License along with this program.
-# If not, see https://www.gnu.org/licenses/.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+
+"""
+Read the specified JSON file and generate the POT file.
+"""
 
 import json
 import sys
@@ -53,7 +43,7 @@ if domain == "iso_3166-2":
     comment = "code"
 
 # Read in the JSON file
-with open(datapath + "/" + domain + ".json", encoding="utf-8") as json_file:
+with open(datapath + "/data/" + domain + ".json", encoding="utf-8") as json_file:
     iso = json.load(json_file)
 
 
@@ -85,25 +75,26 @@ for item in iso[iso_number]:
         add_msgid(item["inverted_name"], "Inverted name for " + item[comment])
 
 # Write the POT file
-with open(domain + ".pot", "w", encoding="utf-8") as pot_file:
+with open(
+    datapath + "/" + domain + "/" + domain + ".pot", "w", encoding="utf-8"
+) as pot_file:
     # Write the header
-    pot_file.write("# Translation of ISO " + iso_number + " to LANGUAGE\n")
-    pot_file.write("# " + description[domain] + "\n")
+    pot_file.write(f"# Translation of ISO {iso_number} to LANGUAGE\n")
+    pot_file.write(f"# {description[domain]}\n")
     pot_file.write("#\n")
-    pot_file.write(
-        "# This file is distributed under the same license as the iso-codes package.\n"
-    )
+    # REUSE-IgnoreStart
+    pot_file.write("# SPDX-License-Identifier: LGPL-2.1-or-later\n")
     pot_file.write("#\n")
-    pot_file.write("# Copyright ©\n")
-    pot_file.write("# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.\n")
+    pot_file.write(f"# SPDX-FileCopyrightText: YEAR FIRST AUTHOR <EMAIL@ADDRESS>\n")
+    # REUSE-IgnoreEnd
     pot_file.write("#\n")
     pot_file.write('msgid ""\n')
     pot_file.write('msgstr ""\n')
-    pot_file.write('"Project-Id-Version: ' + domain + '\\n"\n')
+    pot_file.write(f'"Project-Id-Version: {domain}\\n"\n')
     pot_file.write(
         '"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/issues\\n"\n'
     )
-    pot_file.write('"POT-Creation-Date: ' + time.strftime("%F %H:%M%z") + '\\n"\n')
+    pot_file.write(f'"POT-Creation-Date: {time.strftime("%F %H:%M%z")}\\n"\n')
     pot_file.write('"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\\n"\n')
     pot_file.write('"Last-Translator: FULL NAME <EMAIL@ADDRESS>\\n"\n')
     pot_file.write('"Language-Team: LANGUAGE <LL@li.org>\\n"\n')
@@ -112,7 +103,7 @@ with open(domain + ".pot", "w", encoding="utf-8") as pot_file:
     pot_file.write('"Content-Transfer-Encoding: 8bit\\n"')
     # Write the data
     for msgid in sorted_data:
-        pot_file.write("\n\n#. " + ", ".join(msgid["comment"]) + "\n")
-        pot_file.write('msgid "' + msgid["msgid"] + '"\n')
+        pot_file.write(f"\n\n#. {', '.join(msgid['comment'])}\n")
+        pot_file.write(f'msgid "{msgid["msgid"]}"\n')
         pot_file.write('msgstr ""')
     pot_file.write("\n")

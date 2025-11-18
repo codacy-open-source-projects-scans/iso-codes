@@ -2,17 +2,16 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Nguyễn Hùng Vũ <vuhung16@bigfoot.com>, 2001.
-# Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
+# SPDX-FileCopyrightText: 2001 Nguyễn Hùng Vũ <vuhung16@bigfoot.com>
+# SPDX-FileCopyrightText: 2005-2009 Clytie Siddall <clytie@riverland.net.au>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:23+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2013-03-09 13:55+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"

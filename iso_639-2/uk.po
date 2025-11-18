@@ -2,16 +2,15 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2012-2013, 2015, 2020, 2022, 2025.
+# SPDX-FileCopyrightText: 2010, 2012-2013, 2015, 2020, 2022, 2025 Yuri Chornoivan <yurchor@ukr.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:23+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-10-14 21:22+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"

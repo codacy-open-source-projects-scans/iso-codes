@@ -2,22 +2,21 @@
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Mai Hao Hui <mhh@126.com>, 2001.
-# Abel Cheung <abelcheung@gmail.com>, 2007, 2023.
-# Hominid He(viperii) <hominid@39.net>, 2007.
-# LI Daobing <lidaobing@gmail.com>, 2007.
-# Walter Cheuk <wwycheuk@gmail.com>, 2019.
-# Jack Liu <ywp033319@gmail.com>, 2022.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2001 Mai Hao Hui <mhh@126.com>
+# SPDX-FileCopyrightText: 2007, 2023 Abel Cheung <abelcheung@gmail.com>
+# SPDX-FileCopyrightText: 2007 Hominid He(viperii) <hominid@39.net>
+# SPDX-FileCopyrightText: 2007 LI Daobing <lidaobing@gmail.com>
+# SPDX-FileCopyrightText: 2019 Walter Cheuk <wwycheuk@gmail.com>
+# SPDX-FileCopyrightText: 2022 Jack Liu <ywp033319@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:23+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-09 22:52+0000\n"
 "Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional, Hong Kong) <https://hosted.weblate.org/"

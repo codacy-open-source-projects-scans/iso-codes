@@ -1,19 +1,18 @@
 # Translation of ISO 4217 to Dutch; Flemish
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Elros Cyriatan <cyriatan@fastmail.fm>, 2004.
-# Luk Claes <luk.claes@ugent.be>, 2005.
-# Freek de Kruijf <f.de.kruijf@gmail.com>, 2007-2008, 2010.
-# Pander <pander@users.sourceforge.net>, 2022.
+# SPDX-FileCopyrightText: 2004 Elros Cyriatan <cyriatan@fastmail.fm>
+# SPDX-FileCopyrightText: 2005 Luk Claes <luk.claes@ugent.be>
+# SPDX-FileCopyrightText: 2007-2008, 2010 Freek de Kruijf <f.de.kruijf@gmail.com>
+# SPDX-FileCopyrightText: 2022 Pander <pander@users.sourceforge.net>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 19:11+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2022-11-28 16:41+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/iso-4217/"

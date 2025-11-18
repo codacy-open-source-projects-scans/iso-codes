@@ -1,17 +1,16 @@
 # Translation of ISO 4217 to Icelandic
 # Codes for the representation of currencies
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Sveinn í Felli <sveinki@nett.is>, 2010-2011, 2015, 2017.
-# Sveinn í Felli <sv1@fellsnet.is>, 2020, 2022, 2024, 2025.
+# SPDX-FileCopyrightText: 2010-2011, 2015, 2017 Sveinn í Felli <sveinki@nett.is>
+# SPDX-FileCopyrightText: 2020, 2022, 2024, 2025 Sveinn í Felli <sv1@fellsnet.is>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 19:11+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-10-17 11:07+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"

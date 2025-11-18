@@ -2,25 +2,25 @@
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
+# .
+# SPDX-FileCopyrightText: 2012 Hendrik Knackstedt <hendrik.knackstedt@t-online.de>
+# SPDX-FileCopyrightText: 2014 Mario Blättermann <mario.blaettermann@gmail.com>
+# SPDX-FileCopyrightText: 2012-2023 Dr. Tobias Quathamer <toddy@debian.org>
+# SPDX-FileCopyrightText: 2022 Helge Kreutzmann <debian@helgefjell.de>
+# SPDX-FileCopyrightText: 2020 J. Lavoie <j.lavoie@net-c.ca>
+# SPDX-FileCopyrightText: 2020 Serge Karpesh <skarpiesz@gmail.com>
+# SPDX-FileCopyrightText: 2022 Nathan Schimmoller <nschimmo@gmail.com>
+# SPDX-FileCopyrightText: 2025 Serhii Horichenko <serhii@horichenko.com>
 # .
 # Notes:
 # Sources: Freie Enzyklopädie Wikipedia (http://de.wikipedia.org/wiki/ISO_3166-2)
-# Copyright ©
-# Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
-# Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2012-2023.
-# Helge Kreutzmann <debian@helgefjell.de>, 2022.
-# J. Lavoie <j.lavoie@net-c.ca>, 2020.
-# Serge Karpesh <skarpiesz@gmail.com>, 2020.
-# Nathan Schimmoller <nschimmo@gmail.com>, 2022.
-# Serhii Horichenko <serhii@horichenko.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:03+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2025-06-18 00:01+0000\n"
 "Last-Translator: Serhii Horichenko <serhii@horichenko.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"

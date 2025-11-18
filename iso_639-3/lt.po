@@ -2,19 +2,18 @@
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
-# Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2009.
-# Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>, 2021.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Gediminas Paulauskas <menesis@delfi.lt>
+# SPDX-FileCopyrightText: 2004, 2009 Kęstutis Biliūnas <kebil@kaunas.init.lt>
+# SPDX-FileCopyrightText: 2021 Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:49+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-02-21 22:09+0000\n"
 "Last-Translator: Kornelijus Tvarijanavičius <kornelitvari@protonmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/iso-codes/"

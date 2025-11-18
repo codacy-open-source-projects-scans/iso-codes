@@ -2,24 +2,24 @@
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Alastair McKinstry <mckinstry@debian.org>, 2001.
-# Ricardo Fernández Pascual <ric@users.sourceforge.net>, 2000-2001.
-# Javier Fernández-Sanguino Peña <jfs@debian.org>, 2004.
-# Rodrigo Lledó <rodhos92@gmail.com>, 2019.
-# Luis A. Arizmendi <luis.arizmendi@mailfence.com>, 2019.
-# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2021.
-# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
+# SPDX-FileCopyrightText: 2001 Alastair McKinstry <mckinstry@debian.org>
+# SPDX-FileCopyrightText: 2000-2001 Ricardo Fernández Pascual <ric@users.sourceforge.net>
+# SPDX-FileCopyrightText: 2004 Javier Fernández-Sanguino Peña <jfs@debian.org>
+# SPDX-FileCopyrightText: 2019 Rodrigo Lledó <rodhos92@gmail.com>
+# SPDX-FileCopyrightText: 2019 Luis A. Arizmendi <luis.arizmendi@mailfence.com>
+# SPDX-FileCopyrightText: 2019, 2021 Adolfo Jayme Barrientos <fitojb@ubuntu.com>
+# SPDX-FileCopyrightText: 2019 Guillermo Segovia <gsegovia2018@my.fit.edu>
+# SPDX-FileCopyrightText: 2025 Francisco Serrador <fserrador@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 22:49+0200\n"
-"PO-Revision-Date: 2021-05-24 20:32+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
+"PO-Revision-Date: 2025-11-17 23:59+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/es/>\n"
 "Language: es\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -47,7 +47,7 @@ msgstr "Amal"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "Arbëreshë Albanés"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
@@ -87,7 +87,7 @@ msgstr "Anambé"
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
-msgstr ""
+msgstr "Árabe saharaui de Argelia"
 
 #. Inverted name for aao
 msgid "Arabic, Algerian Saharan"
@@ -95,7 +95,7 @@ msgstr "Árabe, argelino sahariano"
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "Arára de Pará"
 
 #. Inverted name for aap
 msgid "Arára, Pará"
@@ -103,7 +103,7 @@ msgstr "Arára, Pará"
 
 #. Name for aaq
 msgid "Eastern Abnaki"
-msgstr ""
+msgstr "Abnaki oriental"
 
 #. Inverted name for aaq
 msgid "Abnaki, Eastern"

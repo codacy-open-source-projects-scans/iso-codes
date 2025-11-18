@@ -1,17 +1,16 @@
 # Translation of ISO 15924 to Croatian
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# gogogogi <trebelnik2@gmail.com>, 2019.
-# Milo Ivir <mail@milotype.de>, 2019, 2020, 2021.
+# SPDX-FileCopyrightText: 2019 gogogogi <trebelnik2@gmail.com>
+# SPDX-FileCopyrightText: 2019, 2020, 2021 Milo Ivir <mail@milotype.de>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2021-01-25 17:32+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"

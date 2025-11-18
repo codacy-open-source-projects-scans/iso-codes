@@ -1,17 +1,16 @@
 # Translation of ISO 15924 to Welsh
 # Codes for the representation of names of scripts
 # .
-# This file is distributed under the same license as the iso-codes package.
+# SPDX-License-Identifier: LGPL-2.1-or-later
 # .
-# Copyright ©
-# Huw Waters <huwwaters@gmail.com>, 2018.
-# dreigiau <sterilgrimed23@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2018 Huw Waters <huwwaters@gmail.com>
+# SPDX-FileCopyrightText: 2023 dreigiau <sterilgrimed23@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2025-10-13 21:06+0200\n"
+"POT-Creation-Date: 2025-11-18 11:09+0100\n"
 "PO-Revision-Date: 2023-04-23 17:51+0000\n"
 "Last-Translator: dreigiau <sterilgrimed23@gmail.com>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
