@@ -8,13 +8,32 @@ and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [UNRELEASED]
+## [4.20.1] – 2026-01-01
+
+### Fixed
+
+* Install symlinks for obsolete .po filenames
+
+
+## [4.20.0] – 2026-01-01
 
 ### Changed
 
 * Switch from autotools to meson build system
 * The project is now fully compliant with version 3.3 of the
   REUSE specification
+* Translation updates for ISO 3166-1
+* Translation updates for ISO 3166-2
+* Translation updates for ISO 3166-3
+* Translation updates for ISO 639-2
+* Translation updates for ISO 639-3
+* Translation updates for ISO 639-5
+* Translation updates for ISO 4217
+* Translation updates for ISO 15924
+
+### Removed
+* ISO 4217: Remove Bulgarian Lev (BGN), now EUR is the
+  currency in Bulgaria
 
 
 ## [4.19.0] – 2025-11-09
@@ -402,7 +421,9 @@ please switch to the JSON data files.**
   two and a half years. Please use the JSON data files instead.
 
 
-[UNRELEASED]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.19.0...main
+[UNRELEASED]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.20.1...main
+[4.20.1]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.20.0...v4.20.1
+[4.20.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.19.0...v4.20.0
 [4.19.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.18.0...v4.19.0
 [4.18.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.17.0...v4.18.0
 [4.17.0]: https://salsa.debian.org/iso-codes-team/iso-codes/compare/v4.16.0...v4.17.0
